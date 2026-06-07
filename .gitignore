@@ -6,7 +6,8 @@ __pycache__/
 *.pth
 node_modules/
 .DS_Store
-uploads/# Large dataset files
+uploads/
+# Large dataset files
 shared/raw_data/
 *.json
 *.csv
